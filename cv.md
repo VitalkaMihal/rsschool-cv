@@ -48,3 +48,19 @@ for (let color of colors){
 
 
 -------------------------------------------------------------------------------------
+ ## education:
+
+1. School № 181
+2. Minsk Automehanical Tecnical school
+3. Belarus national technical university
+
+
+### courses:
+
+https://htmlacademy.ru/courses/basic-javascript
+
+---------------------------------------------------
+
+## English
+
+> I have studied English at school and in college. no language practice
