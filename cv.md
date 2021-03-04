@@ -51,8 +51,9 @@ for (let color of colors){
  ## education:
 
 1. School № 181
-2. Minsk Automehanical Tecnical school
-3. Belarus national technical university
+2. [Minsk Automehanical Tecnical school](https://mgak1.by/)
+3. [belarus national technical university](http://www.bntu.by/)
+
 
 
 ### courses:
