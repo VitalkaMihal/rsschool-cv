@@ -30,9 +30,9 @@ pre {
 }
 footer {
     white-space: pre;
-    background-color: #163d4d;
+    background-color: #81c8e4;
     margin: 20px;
     vertical-align: middle;
-    height: 100px;
-    color: azure;
+    text-decoration-color: rgb(229, 235, 235);
+    border-radius: 10px;
 }
